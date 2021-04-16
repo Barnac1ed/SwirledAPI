@@ -12,4 +12,4 @@ client.on("ready", () =>{
   client.user.setActivity('Over 11 Servers | s?help', { type: "WATCHING"})
 })    
 
-client.login('NzkyNjA2MjgyOTkzMjM4MDE2.X-gKHw.PDLnNp598M683ywONcTTh5NJfUQ');
+client.login('INSERT_TOKEN_HERE');
