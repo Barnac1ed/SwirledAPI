@@ -32,9 +32,9 @@ A Simple Discord Bot That I Use To Develop My Discord.js Skills. You Can Use It 
 
 ## 『❗』**Important**
 
-⚬ If you have any issues, make sure to put them in [https://github.com/yeebi/SwirledAPI/issues](https://github.com/yeebi/SwirledAPI/issues)!
+⚬ If you have any issues, make sure to put them in [https://github.com/Barnac1ed/SwirledAPI/issues](https://github.com/Barnac1ed/SwirledAPI/issues)!
 
-⚬ If you added any commands or features that you want me to add that you already coded, make a pull request in [https://github.com/yeebi/SwirledAPI/pulls](https://github.com/yeebi/SwirledAPI/issues).
+⚬ If you added any commands or features that you want me to add that you already coded, make a pull request in [https://github.com/Barnac1ed/SwirledAPI/pulls](https://github.com/Barnac1ed/SwirledAPI/issues).
 
 『🔗』 - **My Bio/Blog:** [http://www.barnacled.ezyro.com](http://www.barnacled.ezyro.com)
 
