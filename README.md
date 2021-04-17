@@ -10,7 +10,7 @@
 6. Run `node .`
 7. Invite You Bot To Your Server ([how to invite your bot to your server](https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links))
 
-💬**Commands**
+『💬』**Commands**
 
 ⚬ help - shows a help command
 
@@ -24,19 +24,19 @@
 
 ⚬ kick (@user) - kicks the mentioned user
 
-🖌️**Customization** 
+『🖌️』**Customization** 
 
 *{optional}* prefix (default is s?) - go to `SwirledAPI\SwirledAPI\events\guild\message.js` and replace the "s?" on the 2nd line with your custom prefix
 
 *{required}* bot token - go to `SwirledAPI\SwirledAPI\main.js` and replace the "INSERT_TOKEN_HERE" with your bot token ([how to get your bot token](https://www.writebots.com/discord-bot-token/))
 
-❗**Important**
+『❗』**Important**
 
 ⚬ If you have any issues, make sure to put them in [https://github.com/yeebi/SwirledAPI/issues](https://github.com/yeebi/SwirledAPI/issues)!
 
 ⚬ If you added any commands or features that you want me to add that you already coded, make a pull request in [https://github.com/yeebi/SwirledAPI/pulls](https://github.com/yeebi/SwirledAPI/issues).
 
-🔗 - My Bio/Blog: [http://www.barnacled.ezyro.com](http://www.barnacled.ezyro.com)
+『🔗』 - **My Bio/Blog:** [http://www.barnacled.ezyro.com](http://www.barnacled.ezyro.com)
 
 ***ALL CREDIT SHOULD GO TO BARNACLED/YEEBI. NOBODY CAN USE THIS CODE TO MAKE MONEY, SELL THE CODE, OR CLAIM IT AS THEIR OWN AS THIS IS PLAGARISM.*** [More Details](https://github.com/yeebi/SwirledAPI/blob/main/LICENSE.md)
 
