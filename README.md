@@ -38,7 +38,7 @@
 
 『🔗』 - **My Bio/Blog:** [http://www.barnacled.ezyro.com](http://www.barnacled.ezyro.com)
 
-***ALL CREDIT SHOULD GO TO BARNACLED/YEEBI. NOBODY CAN USE THIS CODE TO MAKE MONEY, SELL THE CODE, OR CLAIM IT AS THEIR OWN AS THIS IS PLAGARISM.*** [More Details](https://github.com/yeebi/SwirledAPI/blob/main/LICENSE.md)
+***ALL CREDIT SHOULD GO TO BARNACLED/BARNAC1ED. NOBODY CAN USE THIS CODE TO MAKE MONEY, SELL THE CODE, OR CLAIM IT AS THEIR OWN AS THIS IS PLAGARISM.*** [More Details](https://github.com/yeebi/SwirledAPI/blob/main/LICENSE.md)
 
 # Helpful Tutorials About Making Your Own Bot!
 
