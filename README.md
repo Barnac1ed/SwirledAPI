@@ -26,9 +26,9 @@ A Simple Discord Bot That I Use To Develop My Discord.js Skills. You Can Use It 
 
 ## 『🖌️』**Customization** 
 
-*{optional}* prefix (default is s?) - go to `SwirledAPI\SwirledAPI\events\guild\message.js` and replace the "s?" on the 2nd line with your custom prefix
+*{optional}* prefix (default is s?) - go to `SwirledAPI\SwirledAPI\events\guild\message.js` and replace the `s?` on the 2nd line with your custom prefix
 
-*{required}* bot token - go to `SwirledAPI\SwirledAPI\main.js` and replace the "INSERT_TOKEN_HERE" with your bot token ([how to get your bot token](https://www.writebots.com/discord-bot-token/))
+*{required}* bot token - go to `SwirledAPI\SwirledAPI\main.js` and replace the `INSERT_TOKEN_HERE` with your bot token ([how to get your bot token](https://www.writebots.com/discord-bot-token/))
 
 ## 『❗』**Important**
 
