@@ -8,6 +8,7 @@
 4. Run `npm i`
 5. Put your bots token in main.js at the very bottom ([how to get your bot token](https://www.writebots.com/discord-bot-token/))
 6. Run `node .`
+7. Invite You Bot To Your Server ([how to invite your bot to your server](https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links))
 
 💬**Commands**
 
