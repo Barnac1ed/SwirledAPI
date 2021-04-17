@@ -10,6 +10,7 @@
 6. Run `node .`
 
 💬**Commands**
+
 ⚬ help - shows a help command
 ⚬ purge (number) - purges the chosen amount of messages
 ⚬ mee6 - shows mee6 premium's thrue form
@@ -18,10 +19,12 @@
 ⚬ kick (@user) - kicks the mentioned user
 
 🖌️**Customization** 
+
 *{optional}* prefix (default is s?) - go to `SwirledAPI\SwirledAPI\events\guild\message.js` and replace the "s?" on the 2nd line with your custom prefix
 *{required}* bot token - go to `SwirledAPI\SwirledAPI\main.js` and replace the "INSERT_TOKEN_HERE" with your bot token ([how to get your bot token](https://www.writebots.com/discord-bot-token/))
 
 ❗**Important**
+
 ⚬ If you have any issues, make sure to put them in [https://github.com/yeebi/SwirledAPI/issues](https://github.com/yeebi/SwirledAPI/issues)!
 ⚬ If you added any commands or features that you want me to add that you already coded, make a pull request in [https://github.com/yeebi/SwirledAPI/pulls](https://github.com/yeebi/SwirledAPI/issues).
 
