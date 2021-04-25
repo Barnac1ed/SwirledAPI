@@ -36,7 +36,7 @@ A Simple Discord Bot That I Use To Develop My Discord.js Skills. You Can Use It 
 
 ⚬ If you added any commands or features that you want me to add that you already coded, make a pull request in [https://github.com/Barnac1ed/SwirledAPI/pulls](https://github.com/Barnac1ed/SwirledAPI/issues).
 
-『🔗』 - **My Bio/Blog:** [http://www.barnacled.ezyro.com](http://www.barnacled.ezyro.com)
+> 『🔗』 - **My Bio/Blog:** [http://www.barnacled.ezyro.com](http://www.barnacled.ezyro.com)
 
 ***ALL CREDIT SHOULD GO TO BARNACLED/BARNAC1ED. NOBODY CAN USE THIS CODE TO MAKE MONEY, SELL THE CODE, OR CLAIM IT AS THEIR OWN AS THIS IS PLAGARISM.*** [More Details](https://github.com/yeebi/SwirledAPI/blob/main/LICENSE.md)
 
